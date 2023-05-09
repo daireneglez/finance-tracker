@@ -47,6 +47,10 @@ gem "bootsnap", require: false
 
 gem 'devise'
 
+gem 'jquery-rails'
+gem 'bootstrap', '~> 5.3.0.alpha3'
+gem 'devise-bootstrap-views', '~> 1.0'
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
